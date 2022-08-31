@@ -1,4 +1,4 @@
-# TrustTickets 🎫🎫
+# TrustTickets 🎫
 ***Projet de fin d'année Pré-MSC Promo 2024 {EPITECH} Marseille***
 
 ## Description du projet 🔬
