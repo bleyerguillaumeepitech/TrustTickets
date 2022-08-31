@@ -2,7 +2,7 @@
 ***Projet de fin d'année Pré-MSC Promo 2024 {EPITECH} Marseille***
 
 ## Description du projet 🔬
-Une plateforme destinée au monde de l'évennementiel qui permet aux organisateurs de générer leurs billets sous forme de NFT sur la blockchain Polygon et aux utilisateur d'acheter et d'échanger leurs billets de manière équitable pour les organisateurs. L'objectif étant de contrer la revente illégale de billets
+Une plateforme destinée au monde de l'événementiel qui permet aux organisateurs de générer leurs billets sous forme de NFT sur la blockchain Polygone et aux utilisateurs d'acheter et d'échanger leurs billets de manière équitable pour les organisateurs. L'objectif était de contrer la revente illégale de billets
 
 ## Technologies 🛠
 
