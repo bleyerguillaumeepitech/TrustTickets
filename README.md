@@ -6,6 +6,12 @@ Une plateforme destinée au monde de l'événementiel qui permet aux organisateu
 
 Chef de projet: Felix Portier
 
+## Présentation vidéo📹
+
+https://user-images.githubusercontent.com/90611119/200183239-59fa07dc-3a16-444b-8b32-fc5b5613288d.mov
+
+
+
 ## Technologies 🛠
 
   ### Frontend 💻
